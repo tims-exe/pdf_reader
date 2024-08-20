@@ -1,0 +1,5 @@
+langchain
+langchain_community
+pypdf
+docarray
+pydantic==1.10.8

@@ -1,5 +1,6 @@
 .env
 venv
 not_working
-pdf
+data
 .ipynb_checkpoints
+test_data
