@@ -1,4 +1,4 @@
-# icanstudyforyou
+# pdf reader
 
 
 # pip installation
